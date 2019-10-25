@@ -1,0 +1,41 @@
+[
+  {
+    "sinapsis": {
+      "id": "None",
+      "version": "None"
+    },
+    "devices": {
+      "counter": {
+        "out": 0,
+        "entry": 0
+      },
+      "buttons": {
+        "panico": 0
+      },
+      "gps": {
+        "climb": 0,
+        "motion_direction": 0,
+        "longitude": 0,
+        "latitude": 0,
+        "speed": 0,
+        "altitude": 0
+      },
+      "distance": {
+        "distance_level_1": "None",
+        "distance_level_2": "None"
+      }
+    },
+    "info_travel": {
+      "traveled_distance": 0,
+      "avg_speed": 0,
+      "id_travel": 0,
+      "start_coord": "None",
+      "accumulated_time": "None",
+      "start_datetime": "None"
+    },
+    "message_details": {
+      "date": "None",
+      "id_message": "None"
+    }
+  }
+]
